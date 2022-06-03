@@ -1,0 +1,22 @@
+{
+  "name": "twopine-fundament-template",
+  "version": "1.0.0",
+  "description": "Twopine fundament template",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnydegraaf/twopine-fundament-template.git"
+  },
+  "keywords": [
+    "twopine"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnydegraaf/twopine-fundament-template/issues"
+  },
+  "homepage": "https://github.com/sunnydegraaf/twopine-fundament-template#readme"
+}
