@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/sunnydegraaf/twopine-fundament-template#readme",
   "dependencies": {
-    "twopine-fundament": "^1.0.0",
-    "twopine-fundament-cli": "^0.0.3"
+    "twopine-fundament": "latest",
+    "twopine-fundament-cli": "latest"
   }
 }
