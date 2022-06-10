@@ -23,6 +23,6 @@
   "dependencies": {
     "sass": "^1.52.3",
     "twopine-fundament": "latest",
-    "twopine-fundament-cli": "latest"
+    "twopine-fundament-cli": "0.0.8"
   }
 }
