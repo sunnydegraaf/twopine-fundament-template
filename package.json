@@ -22,7 +22,7 @@
   "homepage": "https://github.com/sunnydegraaf/twopine-fundament-template#readme",
   "dependencies": {
     "sass": "^1.52.3",
-    "twopine-fundament": "latest",
+    "twopine-fundament": "1.0.4",
     "twopine-fundament-cli": "0.0.8"
   }
 }
